@@ -22,6 +22,13 @@ date,time,drink,temperature,size,where
 2026-10-20,13:00,water,cold,large,uni
 2026-10-21,10:00,latte,hot,small,home
 2026-10-21,15:00,water,cold,large,home
+2026-10-22,10:00,tea,hot,small,home
+2026-10-22,12:00,water,cold,large.home
+2026-10-22,17:00,smoothie,cold,large,home
+2026-10-23,13:00,water,cold,medium,uni
+2026-10-23,17:00,hot chocolate,hot,medium,cafe
+2026-10-24,10:00,water,cold,large,home
+
 
 
 
