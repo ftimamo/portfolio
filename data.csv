@@ -46,10 +46,15 @@ date,time,drink,temperature,size,where
 2026-11-04,09:00,water,cold,medium,home
 2026-11-05,09:00,water,cold,medium,home
 2026-11-05,13:00,hot chocolate,hot,medium,home
-
-
-
-
+2026-11-06,09:00,water,cold,medium,home
+2026-11-06,13:00,coffee,hot,small,home
+2026-11-07,09:00,tea,hot,small,home
+2026-11-08,10:00,coffee,hot,small,home
+2026-11-09,09:00,water,cold,medium,home
+2026-11-09,13:00,smoothie,cold,large,home
+2026-11-10,09:00,water,cold,medium,home
+2026-11-11,09:00,water,cold,medium,home
+2026-11-12,09:00,water,cold,medium,home
 
 
 
